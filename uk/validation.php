@@ -128,12 +128,10 @@ return [
     'uploaded' => 'Не вдалося завантажити :attribute.',
     'url' => ':attribute має бути дійсною URL-адресою.',
     'uuid' => ':attribute має бути дійсним UUID.',
-
     'custom' => [
         'attribute-name' => [
             'rule-name' => 'спеціальне повідомлення',
         ],
     ],
-
     'attributes' => [],
 ];
